@@ -3,6 +3,9 @@
 ## 🙋‍♂️ About Me
 Aspiring Junior Data Analyst passionate about turning raw data into actionable insights.
 Currently building my skills in SQL, Power BI, and Python.
+- 🎯 Looking for my first Data Analyst role
+- 📍 Based in Egypt
+- 📚 Continuously learning and building real-world projects
 
 ## 🛠️ Tech Stack
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
@@ -30,5 +33,5 @@ Currently building my skills in SQL, Power BI, and Python.
 
 ## 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrhman-hekal-bbb945199/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=abdelrhmanhekal@gmail.com) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=abdelrhmanhekal@gmail.com)
 
