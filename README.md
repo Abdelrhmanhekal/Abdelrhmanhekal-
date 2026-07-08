@@ -17,16 +17,16 @@ Currently building my skills in SQL, Power BI, and Python.
 - **Tools:** Excel
 - 🔗 [View Project](https://github.com/Abdelrhmanhekal/HR-Analytics-Excel-Dashboard)
 
+### 🏆 AdventureWorks Power BI Dashboard
+> Sales and operations analysis using AdventureWorks dataset
+- **Tools:** SQL Server, Power BI
+- 🔗 [View Project](https://github.com/Abdelrhmanhekal/AdventureWorks-PowerBI-Dashboard)
+
 ### 🍽️ Restaurant Analytics Dashboard
 > Analyzed 11M+ restaurant orders using SQL Server, Python & Power BI
 - **Tools:** SQL Server, Python, Power BI
 - **Highlights:** 5-page interactive dashboard, DAX measures, 11M+ rows
 - 🔗 [View Project](https://github.com/Abdelrhmanhekal/Restaurant-Analytics-Dashboard)
-
-### 🏆 AdventureWorks Power BI Dashboard
-> Sales and operations analysis using AdventureWorks dataset
-- **Tools:** SQL Server, Power BI
-- 🔗 [View Project](https://github.com/Abdelrhmanhekal/AdventureWorks-PowerBI-Dashboard)
 
 ## 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrhman-hekal-bbb945199/)
