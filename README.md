@@ -12,6 +12,11 @@ Currently building my skills in SQL, Power BI, and Python.
 
 ## 📊 Projects
 
+### 👥 HR Analytics Excel Dashboard
+> HR data analysis and reporting using Excel
+- **Tools:** Excel
+- 🔗 [View Project](https://github.com/Abdelrhmanhekal/HR-Analytics-Excel-Dashboard)
+
 ### 🍽️ Restaurant Analytics Dashboard
 > Analyzed 11M+ restaurant orders using SQL Server, Python & Power BI
 - **Tools:** SQL Server, Python, Power BI
@@ -25,4 +30,5 @@ Currently building my skills in SQL, Power BI, and Python.
 
 ## 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrhman-hekal-bbb945199/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelrhmanhekal@gmail.com)# Abdelrhmanhekal-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelrhmanhekal@gmail.com) 
+# Abdelrhmanhekal-
